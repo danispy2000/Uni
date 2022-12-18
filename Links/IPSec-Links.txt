@@ -1,0 +1,24 @@
+PFS and IPSEC:
+
+IPSec Protocol
+1. http://www.unixwiz.net/techtips/iguide-ipsec.html
+2. https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_71/rzaja/rzajaudpencap.htm
+
+DH and PFS
+3 https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+4. https://scotthelme.co.uk/perfect-forward-secrecy/
+
+IKE Phase 1 and Phase 2 and IPSec Protocols with messages
+5. https://networklessons.com/cisco/ccie-routing-switching/ipsec-internet-protocol-security
+
+Summary
+https://www.rhyshaden.com/ipsec.htm
+
+Optional. Bellovin-96:
+6. https://www.cs.columbia.edu/~smb/papers/badesp.pdf
+Bellovin-96:
+7. https://crypto.stackexchange.com/questions/11770/bellovin-96-attack-on-ipsec-esp-protocol-on-encryption-only-option
+
+
+
+

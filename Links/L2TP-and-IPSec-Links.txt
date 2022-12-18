@@ -1,0 +1,6 @@
+L2TP
+https://www.cactusvpn.com/beginners-guide-to-vpn/what-is-l2tp/#how-l2tp-works
+https://en.wikipedia.org/wiki/Layer_2_Tunneling_Protocol
+
+IPSec
+http://www.unixwiz.net/techtips/iguide-ipsec.html

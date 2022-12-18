@@ -1,0 +1,7 @@
+Inner and outer labels roles in VRF:
+https://web.eecs.umich.edu/~sugih/courses/eecs489/lectures/20-MPLS+VPN.pdf
+
+MPLS L3-VPN Tutorial
+https://www.slideshare.net/apnic/mpls-l3-vpn-tutorial-by-nurul-islam-roman-apnic-38
+https://www.rogerperkin.co.uk/ccie/mpls/cisco-mpls-tutorial/
+https://www.rogerperkin.co.uk/ccie/mpls/route-distinguisher-vs-route-target/

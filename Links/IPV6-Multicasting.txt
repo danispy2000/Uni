@@ -1,0 +1,12 @@
+Scopes
+https://www.ibm.com/docs/en/zos/2.3.0?topic=addressing-scope-zones
+
+Multicasting Addresses
+https://www.ibm.com/docs/en/zos/2.3.0?topic=addresses-multicast-address-format
+
+Multicast Listener Discovery
+https://www.ibm.com/docs/en/zos/2.2.0?topic=protocol-multicast-listener-discovery
+https://what-when-how.com/ipv6-advanced-protocols-implementation/multicast-listener-discovery-protocol-ipv6-multicasting/
+
+
+https://www.ciscopress.com/articles/article.asp?p=2803866&seqNum=5
